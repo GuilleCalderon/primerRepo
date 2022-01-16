@@ -13,6 +13,10 @@
 
 
 body {
+    background: red;
+    background: linear-gradient(90deg, yellow, red);
+    /* background: conic-gradient(limegreen, green, limegreen); */
+    min-height: 100%; 
     margin: 0;
     font-family: 'Quicksand', sans-serif;
 }
